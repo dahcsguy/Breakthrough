@@ -1,4 +1,4 @@
-//Ryan Hoffmann
+//Ryan Hoffmann, David Mordigal, Chris Menzel, Wayne Zhang, Samuel di Paola
 
 import java.awt.*;
 import java.awt.event.*;
